@@ -1,5 +1,3 @@
-# Diego-Cisneros
-
 # 👋 Hi, I'm Diego Cisneros
 
 I'm a **Jr. Full-Stack Developer** based in Barcelona with a unique blend of experience across **sales, business management, and software development**.
