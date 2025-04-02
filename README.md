@@ -68,9 +68,14 @@ I'm actively looking to transition full-time into **front-end** or **full-stack 
 - 🇪🇸 Spanish – Native  
 - 🇬🇧 English – Advanced (fluent)
 
-- ## 📊 My GitHub Stats
+- ##  My GitHub Stats
 
 ![Kasper1-2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kasper1-2&show_icons=true&theme=tokyonight&count_private=true)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasper1-2&layout=compact&theme=tokyonight)
+
 
 
 
