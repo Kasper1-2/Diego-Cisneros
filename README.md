@@ -68,6 +68,11 @@ I'm actively looking to transition full-time into **front-end** or **full-stack 
 - 🇪🇸 Spanish – Native  
 - 🇬🇧 English – Advanced (fluent)
 
+- ## 📊 My GitHub Stats
+
+![Kasper1-2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kasper1-2&show_icons=true&theme=tokyonight&count_private=true)
+
+
 
 
 Reach out via [LinkedIn](https://www.linkedin.com/in/dfcisnerosg/) or email me at dcisnerosg28@gmail.com
