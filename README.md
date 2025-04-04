@@ -26,7 +26,7 @@ In 2024, I completed the **Ironhack Full-Stack Web Development Bootcamp** in Bar
 **Frontend**
 - React, TypeScript, JavaScript (ES6+)
 - React Router, Context API
-- HTML5, CSS3, TailwindCSS (in progress)
+- HTML5, CSS3, TailwindCSS 
 
 **Backend**
 - Node.js, Express, MongoDB, Mongoose
